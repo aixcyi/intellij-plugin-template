@@ -5,4 +5,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = "MeowCheatsheet"
+rootProject.name = "PluginTemplate"
