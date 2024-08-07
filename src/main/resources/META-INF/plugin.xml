@@ -3,7 +3,7 @@
 
     <id>cn.aixcyi.templugin</id>
     <name>Plugin Template</name>
-    <vendor email="75880483+aixcyi@users.noreply.github.com" url="https://github.com/aixcyi">aixcyi</vendor>
+    <vendor email="75880483+aixcyi@users.noreply.github.com" url="https://github.com/aixcyi/">砹小翼</vendor>
     <resource-bundle>messages.PluginTemplate</resource-bundle>
 
     <!-- 插件兼容性要求：https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
